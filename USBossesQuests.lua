@@ -8,7 +8,6 @@ return {
   {"Asgore tel",60,70},
   {"Asriel tel",70,100},
   {"Sans tel",100,120},
-  {"Chara tel",120,140},
-  {"Omega flowey tel",140,160},
-  {"Undying Undyne tel",160,190},
+  {"Omega flowey tel",120,140},
+  {"Undying Undyne tel",140,160},
 };

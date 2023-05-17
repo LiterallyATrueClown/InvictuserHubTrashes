@@ -1,3 +1,3 @@
 return {
-	{"Flowey tel",1,2},
+{"Flowey tel",1,2},
 };

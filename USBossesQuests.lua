@@ -1,3 +1,4 @@
+-- Ex: {"Tên model boss", level tối thiểu, level tối đa}
 return {
   {"Flowey tel",1,2},
   {"Toriel tel",2,6},

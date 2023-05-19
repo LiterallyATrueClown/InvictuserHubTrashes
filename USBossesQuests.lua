@@ -4,7 +4,7 @@ return {
   {"Papyrus tel",6,15},
   {"Undyne tel",15,40},
   {"Muffet tel",40,60},
-  {"Mettaton EX tel",60,70},
+  {"Mettaton EX Tel",60,70},
   {"Asgore tel",70,80},
   {"Asriel tel",80,100},
   {"Sans tel",100,120},
